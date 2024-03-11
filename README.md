@@ -1,9 +1,9 @@
 
 # Asteria Stealer
 
+![Logo](https://cdn.discordapp.com/attachments/1208040488133722133/1216748151361507508/New_Project.png?ex=66018405&is=65ef0f05&hm=2c897ac5c1c5c1cd14fdb7e8b8ef6452c9ac5bedf11cbaf69eb6bab68d5015ee&)
+
 A completely undetected fast reliable RAT/stealer
-
-
 ## Features
 
 -   Discord
