@@ -67,4 +67,8 @@ Tutorial on how to use Asteria
 - Done! You now have their info
 ## Screenshots
 
-![Coming Soon](https://media.istockphoto.com/id/1309023728/video/cinematic-intro-of-the-coming-soon-lettering-from-the-dark.jpg?s=640x640&k=20&c=6ywPVAi06d-ODrrEYERKmgC7CBbGeZeLaJXhwklfzDk=)
+![Showcase Discord](https://media.discordapp.net/attachments/1209960778384281632/1217118171899887716/Ontwerp_zonder_titel.png?ex=6602dca1&is=65f067a1&hm=a9ea5331914a2fd28b77b4e2c88007499f2d7dddb4714a405f23c1bbf0b394dc&=&format=webp&quality=lossless&width=168&height=310)
+
+![Showcase UI](https://cdn.nest.rip/uploads/5939a2ee-4503-4e11-9605-0b2ba24cb3d4.png)
+
+![Data Showcase](https://images-ext-1.discordapp.net/external/f5BRQvsIMwi7YV2w8mbFwgDjd-W7XmU5EDAa8WaONZM/https/cdn.nest.rip/uploads/26f31f65-cdac-469d-8b80-6ab89c9adc92.png?format=webp&quality=lossless&width=319&height=152)
